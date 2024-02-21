@@ -13,5 +13,8 @@
     <p>Python is a high-level programming language known for its simplicity and readability. It is widely used in various domains, including web development, data analysis, artificial intelligence, and scientific computing. Python's extensive standard library and ecosystem of third-party packages make it a versatile choice for developers.</p>
     <h2>Conclusion</h2>
     <p>Each programming language has its own strengths and weaknesses, and the choice of language depends on the specific requirements of the project. Whether you prioritize performance, safety, ease of use, or community support, there is a programming language that suits your needs.</p>
+
+
     
 </body>
+https://github.com/Luann8/Language-Battle-Rust-vs-C-vs-JavaScript-vs-Python/blob/main/Captura%20de%20tela%202024-02-21%20125631.png?raw=true
