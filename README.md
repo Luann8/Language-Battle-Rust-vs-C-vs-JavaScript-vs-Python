@@ -17,4 +17,4 @@
 
     
 </body>
-<img> https://github.com/Luann8/Language-Battle-Rust-vs-C-vs-JavaScript-vs-Python/blob/main/Captura%20de%20tela%202024-02-21%20125631.png?raw=true <img>
+<img url: ("https://github.com/Luann8/Language-Battle-Rust-vs-C-vs-JavaScript-vs-Python/blob/main/Captura%20de%20tela%202024-02-21%20125631.png?raw=true") >
