@@ -16,5 +16,5 @@
 
 
     
- <img src="https://github.com/Luann8/Language-Battle-Rust-vs-C-vs-JavaScript-vs-Python/blob/main/Captura%20de%20tela%202024-02-21%20131224.png?raw=true" alt="Description of the image">
+ <img src="https://github.com/Luann8/Language-Battle-Rust-vs-C-vs-JavaScript-vs-Python/blob/main/download.png?raw=true" alt="Description of the image">
 </body>
